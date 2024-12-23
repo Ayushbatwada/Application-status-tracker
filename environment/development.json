@@ -1,0 +1,11 @@
+{
+  "mongodbName": "plivo",
+  "mongodbUri": "localhost:27017",
+  "mongodbUserName": "",
+  "mongodbPassword": "",
+  "redisUrl": "redis-19534.c264.ap-south-1-1.ec2.redns.redis-cloud.com",
+  "redisPassword": "",
+  "jwtSecretKey": "ABCDabcdEFGHefghIJKLMijklmNOPQRSnopqrsTUVtuvWXYwxyZ",
+  "email": "ayushbatwada@gmail.com",
+  "emailPassword": "sxac xsts ecoz ywkq"
+}
